@@ -1,0 +1,42 @@
+{
+  "productList": [
+    {
+      "productName": "charger",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 66,
+      "comment": "jsd",
+      "date": "2023-06-02T18:30:00.000Z",
+      "id": 16
+    },
+    {
+      "productName": "asas",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 450,
+      "comment": "eferfc",
+      "date": "2023-06-02T18:30:00.000Z",
+      "id": 17
+    },
+    {
+      "productName": "asa",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 9,
+      "comment": "dfdf",
+      "date": "2023-07-10T18:30:00.000Z",
+      "id": 18
+    },
+    {
+      "productName": "Aman Singh",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "This is the best product which you can hire in this",
+      "date": "2023-09-18T18:30:00.000Z",
+      "id": 20
+    }
+  ],
+  "comments": [],
+  "profile": {}
+}
